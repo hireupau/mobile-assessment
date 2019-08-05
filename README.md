@@ -3,7 +3,11 @@
 ## Overview
 We'd like you to create a searchable select list that retrieves Marvel characters from our Superhero API.
 
-The style and behaviour of the select list should match the images shown below.
+The following designs where created for a progressive web app test that can be
+viewed here. https://github.com/hireupau/frontend-assessment.
+For this task you are expected to create a native swift UI equivalent. It does
+not need to match exactly but should follow as closely as is reasonably possible
+taking into account the differences between a PWA and a native app.
 
 ## Prerequisites
 1. Node.js and NPM installed on your local machine
@@ -101,11 +105,8 @@ An example response can be seen below.
 ```
 
 ## Mandatory Requirements
-- Must be completed in react (redux is optional)
-- Cannot use third party search select library
-- Behaviour and style should be the same as shown in the images below. You can choose which fields you want to use for the description. 
-- Items in the list should be selectable via a mouse click. On select, the character name should be written to the console.
-- A loader should be shown when the results are being queried from the API
+- Must be completed in Swift UI
+- Must contain equivalent behaviour to the PWA
 
 ## Submission
 The submission should be committed to Github and a link provided to the submission along with a readme on how to setup and run the solution. The solution is expected to incorporate good software development practices such as comments and tests.
@@ -113,15 +114,6 @@ The submission should be committed to Github and a link provided to the submissi
 **If you have any problems with this assessment, you can create a GitHub issue that will be answered shortly by one of the Hireup development team or email us directly at tech@hireup.com.au**
 
 ## Examples
-
-Example 1 - Closed Select
-![Screenshot1](https://i.imgur.com/9ooq75J.jpg)
-
-Example 2 - Opened Select
-![Screenshot2](https://i.imgur.com/LIlF1Bd.jpg)
-
-Example 3 - No Results Select
-![Screenshot3](https://i.imgur.com/SmLh1sZ.jpg)
 
 Mobile Example 1 - Closed Select
 ![ScreenShot4](https://i.imgur.com/KUaenjW.jpg)

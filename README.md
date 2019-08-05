@@ -1,4 +1,4 @@
-# Frontend-assessment - Searchable Select List
+# Mobile-assessment - Searchable Select List
 
 ## Overview
 We'd like you to create a searchable select list that retrieves Marvel characters from our Superhero API.

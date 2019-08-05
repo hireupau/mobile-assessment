@@ -3,7 +3,7 @@
 ## Overview
 We'd like you to create a searchable select list that retrieves Marvel characters from our Superhero API.
 
-The following designs where created for a progressive web app test that can be
+The following designs were created for a progressive web app test that can be
 viewed here: https://github.com/hireupau/frontend-assessment.
 
 For this task you are expected to create a native swift UI equivalent. It does

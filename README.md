@@ -6,7 +6,7 @@ We'd like you to create a searchable select list that retrieves Marvel character
 The following designs were created for a progressive web app test that can be
 viewed here: https://github.com/hireupau/frontend-assessment.
 
-For this task you are expected to create a native swift UI equivalent. It does
+For this task you are expected to create a native iOS equivalent. It does
 not need to match exactly but should follow as closely as is reasonably possible
 taking into account the differences between a PWA and a native app.
 
@@ -106,7 +106,7 @@ An example response can be seen below.
 ```
 
 ## Mandatory Requirements
-- Must be completed in Swift UI
+- Must be completed in Swift
 - Must contain equivalent behaviour to the PWA
 
 ## Submission
